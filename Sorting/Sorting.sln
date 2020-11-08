@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{3D8D1B59-7A76-49B0-9932-38FFA1D1B7AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "Sorting\Sorting.csproj", "{3D8D1B59-7A76-49B0-9932-38FFA1D1B7AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_SelectionSort", "001_SelectionSort\001_SelectionSort.csproj", "{DAC55A85-1870-4C7E-A7F4-6B14387CA35D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_SelectionSort", "001_SelectionSort\001_SelectionSort.csproj", "{DAC55A85-1870-4C7E-A7F4-6B14387CA35D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_InsertionSort", "002_InsertionSort\002_InsertionSort.csproj", "{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_InsertionSort", "002_InsertionSort\002_InsertionSort.csproj", "{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Sort", "Bubble Sort\Bubble Sort.csproj", "{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
