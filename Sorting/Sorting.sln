@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_SelectionSort", "001_Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_InsertionSort", "002_InsertionSort\002_InsertionSort.csproj", "{75C0F9C4-1615-4A1C-846F-CDAC03A74A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble Sort", "Bubble Sort\Bubble Sort.csproj", "{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Bubble Sort", "Bubble Sort\003_Bubble Sort.csproj", "{4C1EDDAC-6FE3-43DE-A466-55071A162FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

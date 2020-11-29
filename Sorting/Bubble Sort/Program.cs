@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bubble_Sort
+namespace _003_Bubble_Sort
 {
     class Program
     {
